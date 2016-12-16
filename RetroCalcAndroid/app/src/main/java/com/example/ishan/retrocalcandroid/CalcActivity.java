@@ -42,7 +42,6 @@ public class CalcActivity extends Activity {
 
         Button clearButton = (Button) findViewById(R.id.clearBtn);
 
-
         ImageButton calcBtn = (ImageButton) findViewById(R.id.calcButton);
         ImageButton multiplyBtn = (ImageButton) findViewById(R.id.multiplyBtn);
         ImageButton divideBtn = (ImageButton) findViewById(R.id.divideBtn);
